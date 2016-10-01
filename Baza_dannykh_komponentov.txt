@@ -26,4 +26,11 @@
 24- микросхемы
 ============================
 Шаблон расположения графики по млоям
-mehani
+mechanical1 -> contur platy
+mechanical2 -> plata
+mechanical3 -> Top Assy
+mechanical4 -> Bot Assy
+mechanical5 -> Top 3D
+mechanical6 -> Bot 3D
+mechanical7 -> Top ConturComponent
+mechanical8 -> Bot ConturComponent
