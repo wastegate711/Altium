@@ -26,6 +26,9 @@ TableName=Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=92|Library Path0=98|Footprint Path0=98|Description0=82|Values0=57|ID0=34|Part Number0=87|PowerSupply0=90|Manufacture0=89|ComponentLink1URL0=131|ComponentLink1Description0=170
 [Table2]
 SchemaName=
 TableName=Chips
